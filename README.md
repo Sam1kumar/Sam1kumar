@@ -12,3 +12,5 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="60" height="60" /> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cpp" width="60" height="60" /> </a>
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam1kumar&theme=light&hide_langs_below=1" />
